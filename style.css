@@ -1,0 +1,81 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@roodjinocherilus 
+roodjinocherilus
+/
+microverse-project
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+microverse-project/css/style.css
+@roodjinocherilus
+roodjinocherilus Stle css make it look good
+Latest commit 935ceab on Aug 23
+ History
+ 2 contributors
+@roodjinocherilus@sajibarafatsiddiqui
+36 lines (31 sloc)  405 Bytes
+
+img {
+    max-width: 70%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+h1 {
+   text-align:center; 
+}
+
+h2 {
+    text-align:center;
+}
+
+h5 {
+    text-align:center;
+}
+#description {
+    text-align:center; 
+}
+
+figcaption {
+    margin: auto;
+    max-width: 68%;
+    background-color: azure;
+    padding: 2%;
+}
+#tribute-info{
+    margin:auto;
+}
+
+#bio{
+    margin-left:20%;
+    margin-right:20%;
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+microverse-project/style.css at main · roodjinocherilus/microverse-project
